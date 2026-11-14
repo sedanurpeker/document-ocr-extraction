@@ -1,4 +1,4 @@
-# 📄 Document OCR Extraction
+#  Document OCR Extraction
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Image_Processing-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
@@ -8,14 +8,14 @@ This project automatically reads text from documents (such as invoices, receipts
 
 One click: OCR + Regex + CSV output.
 
-## 📑 Table of Contents
+##  Table of Contents
 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
 - [Author](#-author)
 
-## ✨ Features
+##  Features
 
 - **Text recognition (OCR):** Reads text in both Turkish and English using EasyOCR
 - **Information extraction:**
@@ -26,7 +26,7 @@ One click: OCR + Regex + CSV output.
 - **Result logging:** Extracted data from all documents is saved to `extracted_data.csv`
 - **Bounding-box preview:** Detected text regions are highlighted on the image
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python 3.9+
 - EasyOCR
@@ -34,7 +34,7 @@ One click: OCR + Regex + CSV output.
 - Pandas
 - Regex (`re` library)
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Install the required libraries:
 
@@ -62,6 +62,6 @@ python main.py
 
 The extracted information will be automatically saved to `extracted_data.csv`.
 
-## 👤 Author
+##  Author
 
 **Sedanur Peker**
